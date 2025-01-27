@@ -4,7 +4,7 @@ body {
   line-height: 1.6;
   margin: 0;
   padding: 0;
-  background: url('https://assets.onecompiler.app/43779h7c2/43778zk3s/1000027383.jpg) no-repeat center center fixed; /* Background image */
+  background: url('https://assets.onecompiler.app/43779h7c2/43778zk3s/1000027383.jpg') no-repeat center center fixed; /* Background image */
   background-size: cover; /* Cover the entire screen */
   color: #333;
 }
